@@ -1,7 +1,5 @@
 import math
 import unittest
-import math
-import unittest
 import random
 def wallis(n):
     sum=1
